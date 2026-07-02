@@ -72,7 +72,7 @@ Spring Boot • React • MySQL
 
 Marketplace for property buyers and sellers.
 
-<img src="./assets/bg.png">
+<img src="./assets/bg.png" width="100px" height="50px">
 
 ---
 
